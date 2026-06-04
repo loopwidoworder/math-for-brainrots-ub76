@@ -1,4 +1,4 @@
-#  
+#  rivals custom Scripts is the best rivals Script, featuring auto-heal and silent aim. Safe and powerful for all your needs.
 
 
 
